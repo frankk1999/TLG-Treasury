@@ -1,0 +1,14 @@
+Package: tlg-treasury
+Title: TLG Treasury Project
+Version: 0.0.1
+Authors@R: person("Frank", "Yang", role = c("aut", "cre"), email = "gbbj4970@gmail.com")
+Description: A treasury of TLG tables.
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports:
+    dplyr,
+    gtsummary,
+    cards,
+    rtables,
+    tern,
+    pharmaverseadam
